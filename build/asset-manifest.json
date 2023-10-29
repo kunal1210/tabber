@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tabber/static/css/main.a3cf3dfe.css",
+    "main.js": "/tabber/static/js/main.975f6587.js",
+    "static/media/giphy.webp": "/tabber/static/media/giphy.4bce908dde1a6ad3c019.webp",
+    "index.html": "/tabber/index.html",
+    "main.a3cf3dfe.css.map": "/tabber/static/css/main.a3cf3dfe.css.map",
+    "main.975f6587.js.map": "/tabber/static/js/main.975f6587.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3cf3dfe.css",
+    "static/js/main.975f6587.js"
+  ]
+}
